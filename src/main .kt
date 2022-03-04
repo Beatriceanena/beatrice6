@@ -1,10 +1,10 @@
 fun main (){
 output()
-  var h=  mylength("school")
-    println(h)
+
     var g= mydata("Anena",15)
     println(g)
-    mydata("Beatrice",10)
+    var h=  mylength("school")
+    println(h)
     myname()
 }
 //Question 1
